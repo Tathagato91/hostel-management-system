@@ -10,7 +10,7 @@ Aim of this Mini Project is to understand the basic concepts DSA.
 
 
 ## Flow of the Program
-![Flowchart](https://github.com/Tathagato91/hostel-management-system/blob/main/Images/Flowchart.png)
+![Flowchart](https://github.com/Tathagato91/hostel-management-system/blob/master/Images/Flowchart.png)
 
 
 ## Dependencies
@@ -24,10 +24,10 @@ Aim of this Mini Project is to understand the basic concepts DSA.
 ## Output
 
  * Booking 
- ![Booking](https://github.com/Tathagato91/hostel-management-system/blob/main/Images/Booking.gif)
+ ![Booking](https://github.com/Tathagato91/hostel-management-system/blob/master/Images/Booking.gif)
  
  * Display 
- ![Display](https://github.com/Tathagato91/hostel-management-system/blob/main/Images/Display.gif)
+ ![Display](https://github.com/Tathagato91/hostel-management-system/blob/master/Images/Display.gif)
  
  
  
